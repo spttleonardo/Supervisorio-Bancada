@@ -4,8 +4,8 @@ Este repositório contém o código de um supervisório para a bancada de mediç
 Instruções de Uso
 
     Controlador com Arduino:
-    Utilize um Arduino com os equipamentos descritos na interface do supervisório.
-    O código principal para o Arduino está no arquivo: Codigo_Arduino_Com_Rele.ino.
+    Para utilizar o supervisório, é necessário conectar um Arduino com os equipamentos descritos na interface.
+    O código principal a ser carregado no Arduino está no arquivo Codigo_Arduino_Com_Rele.ino.
 
     Leitura de Sensores com Segundo Arduino (opcional):
     Para a leitura dos sensores, pode-se usar um segundo Arduino com o código Codigo_Sensores.ino.

@@ -11,6 +11,6 @@ Instruções de Uso
     Para a leitura dos sensores, pode-se usar um segundo Arduino com o código Codigo_Sensores.ino.
     Para esse código, é necessário instalar a biblioteca MAX31856, que está incluída neste repositório como MAX31856.zip.
 
-Observações
+Observações:
 
     Os arquivos Codigo_Sensores.ino e MAX31856.zip devem ser mantidos separados dos demais arquivos do projeto.
